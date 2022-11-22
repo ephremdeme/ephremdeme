@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on exciting and fun projects
 - 📫 How to reach me [![Twitter: demelash_ephrem](https://img.shields.io/badge/-Ephrem-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp)](https://twitter.com/demelash_ephrem)
 [![Linkedin: ephrem-demelash](https://img.shields.io/badge/Ephrem-Demelash-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/ephrem-demelash)](https://www.linkedin.com/in/ephrem-demelash/)
-[![GitHub EphremDeme](https://img.shields.io/github/followers/EPhremDeme?label=follow&style=social)](https://github.com/EPhremDeme)
+[![GitHub EphremDeme](https://img.shields.io/github/followers/ephremdeme?label=follow&style=social)](https://github.com/ephremdeme)
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
