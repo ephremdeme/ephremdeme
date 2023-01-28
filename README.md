@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Web development, Blockchain, and Zen 🧘‍♂️
-- 🌱 I’m currently learning AWS Lambda and Go Lang
+- 🌱 I’m currently learning more about AWS and Go Lang
 - 💞️ I’m looking to collaborate on exciting and fun projects
 - 📫 How to reach me [![Twitter: demelash_ephrem](https://img.shields.io/badge/-Ephrem-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp)](https://twitter.com/demelash_ephrem)
 [![Linkedin: ephrem-demelash](https://img.shields.io/badge/Ephrem-Demelash-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/ephrem-demelash)](https://www.linkedin.com/in/ephrem-demelash/)
